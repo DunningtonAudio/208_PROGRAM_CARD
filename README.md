@@ -11,6 +11,8 @@ Beyond the settings / connections available on the original cards, the following
 * Footprints for optional multi-turn trimmer potentiometers (Bourns 3266W type) in series with the sequencer voltage level settings for fine tune when programming pitched sequences.
 * 5V rail brought out to the prototyping area (where this is available on the 208 edge connector)
 
+Please read the notes before ordering or using cards.
+
 The repository contains:
 
 * KiCad project files, including gerber outputs
